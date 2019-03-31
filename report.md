@@ -17,9 +17,9 @@ The last layer is followed by a tanh function, programmed in the ddpg_agent.py f
 
 ### Results
 
-I was able to solve the environment in 86 episodes.
+I was able to solve the environment in 1096 episodes.
 
-![Solved in 86 episodes](image.png)
+![Solved in 1096 episodes](image.png)
 
 The saved weights are in `policy.pth`. 
 
